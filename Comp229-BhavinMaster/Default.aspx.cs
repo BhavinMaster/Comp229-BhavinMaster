@@ -11,7 +11,7 @@ namespace Comp229_BhavinMaster
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            LBL_HEllo.Text = "Hello World!";
         }
     }
 }
